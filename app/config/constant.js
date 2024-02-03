@@ -1,6 +1,6 @@
 // Constant Data - Being used all over the backend!
 module.exports = {
-    emailSuffix     	: 'mnit.ac.in',
+    emailSuffix     	: 'www.montessoriecollege.edu',
     programs            : ['UG','M.Tech.','M.Plan.','M.Sc.','PhD','MBA'],
     placementTeamRoles  : ['spc', 'faculty-coordinator'],
     coordinatorData     : {
@@ -9,10 +9,10 @@ module.exports = {
         program         : 'N/A',
         cgpa            : 'N/A',
         alternate_email : 'N/A',
-        address         : 'MNIT Jaipur',
-        city            : 'Jaipur',
-        state           : 'Rajasthan',
-        post_code       : '302017',
+        address         : ' THE MONTESSORI Hyderabad',
+        city            : 'Hyderabad',
+        state           : 'Telangana',
+        post_code       : '600007',
         country         : 'India',
         linkedln_link   : 'N/A',
         matric_marks    : 'N/A',
